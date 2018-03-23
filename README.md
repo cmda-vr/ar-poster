@@ -4,6 +4,8 @@
 ## 📖 Introduction
 Fun little and easy augmented reality poster for the Feedback Frenzy using [`ar.js`](https://github.com/jeromeetienne/AR.js).
 
+[Live version](https://cmda-vr.github.io/ar-poster/index)
+
 ## ⚙ Installation & Development
 
 ### Installation
