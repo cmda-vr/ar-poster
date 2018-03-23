@@ -9,7 +9,7 @@ Fun little and easy augmented reality poster for the Feedback Frenzy using [`ar.
 ### Installation
 1. Clone this repo
 ```
-$ git clone https://github.com/samhoudmedia/aframe-components.git
+$ git clone https://github.com/cmda-vr/ar-poster.git
 ```
 
 2. Open the `index.html` file in your browser of choice
